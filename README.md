@@ -1,4 +1,4 @@
-# Final Project
+# Final Project - Calculator App written in React
 
 ### npm start
 
